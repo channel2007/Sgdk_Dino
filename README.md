@@ -8,6 +8,6 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 # 官方粉絲團
-[無限升級](https://www.facebook.com/unlimited.upgrade)
+* [無限升級](https://www.facebook.com/unlimited.upgrade)
 
 # 未完成。。。
