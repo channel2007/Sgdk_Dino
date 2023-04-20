@@ -4,7 +4,7 @@
 
 # 使用工具
 * [SGDK 1.80](https://github.com/Stephane-D/SGDK/releases/tag/v1.80)
-* [KMod v0.7.3模擬器](檔案名稱](https://segaretro.org/Gens_KMod#Download)
+* [KMod v0.7.3模擬器](https://segaretro.org/Gens_KMod#Download)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 # 官方粉絲團
