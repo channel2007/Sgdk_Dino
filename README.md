@@ -1,6 +1,6 @@
 # 實機測試影片
 <a href="https://youtu.be/O1aMw3prE_4" target="_blank"><img src="https://github.com/channel2007/Sgdk_Dino/blob/master/image/dino_screen_1.jpg" 
-alt="播放影片" width="640" height="480" border="10" /></a>
+alt="播放影片" border="10" /></a>
 
 # 自製SEGA Mega Drive(MD)遊戲 - Google Chrome小恐龍
 使用ChatGPT+SGDK製作MD(SEGA Mega Drive)遊戲
