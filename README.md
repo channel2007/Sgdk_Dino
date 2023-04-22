@@ -14,5 +14,11 @@ alt="播放影片" border="10" /></a>
 * 使用MD模擬器直接開啟rom目錄下的檔案就可以開始玩遊戲
 * 將rom目錄下的檔案複製到MD燒錄卡上並插入MD(SEGA Mega Drive)機器上就可以開始玩遊戲
 
+# Youtube教學
+* https://youtu.be/jNZvQpHOizs
+
+# Medium教學文章
+* [【ChatGPT】組隊ChatGPT製作SEGA Mega Drive(MD)遊戲-Google Chrome小恐龍遊戲篇](https://uupgrade.medium.com/chatgpt-%E7%B5%84%E9%9A%8Achatgpt%E8%A3%BD%E4%BD%9Csega-mega-drive-md-%E9%81%8A%E6%88%B2-google-chrome%E5%B0%8F%E6%81%90%E9%BE%8D%E9%81%8A%E6%88%B2%E7%AF%87-994de07cb458)
+
 # 官方粉絲團
 * [無限升級](https://www.facebook.com/unlimited.upgrade)
